@@ -42,7 +42,7 @@ This app was developed in collaboration with my brother and focuses on enhancing
   - **Use Cases**
   - **Network services**
   - **ViewModels**
-
+- **Internationalization & Localization:** Supports **English** and **Spanish** with `Localizable.strings`.
 ---
 
 ## 🛠 Technologies
